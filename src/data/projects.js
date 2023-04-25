@@ -6,34 +6,34 @@ import img5 from "../assets/project-05.png"
 
 const projects = [
   {
-    title: "Lofi - A Music App for Focus and Motivation",
+    title: "MeroShare-Apply IPO via Multiple Account",
     img: img1,
-    tags: ["React", "Tailwidcss", "Audio Api"],
-    urls: ["https://lofi-delta.vercel.app/", "https://github.com/Lourvens/lofi"]
+    tags: ["React", "JavaScript"],
+    urls: ["https://ashokpds15.vercel.app/", "https://github.com/ashokpds15"]
   },
   {
-    title: "the quote",
+    title: "Chatbot-ui",
     img: img2,
-    tags: ["React", "Rest API", "tailwindcss", "firebase"],
-    urls: ["https://thequote.vercel.app/", "https://github.com/Lourvens/thequote"]
+    tags: ["React", "TypeScript"],
+    urls: ["https://chatbot-ui-ashokpds15.vercel.app/", "https://github.com/ashokpds15"]
   },
   {
-    title: "Streameo - movie website",
+    title: "Book GPT-Ask me anything about the book",
     img: img3,
-    tags: ["React", "Movie API", "TypeScript", "Redux"],
-    urls: ["https://streameo.vercel.app/", "https://github.com/Lourvens/streameo"]
+    tags: ["TypeScript", "JavaScript"],
+    urls: ["https://book-gpt-dtxy-git-master-ashokpds15.vercel.app/", "https://github.com/ashokpds15"]
   },
   {
-    title: "Creatific - Landing page",
+    title: "Autofill- TMS Captcha",
     img: img4,
-    tags: ["Astro", "Scss", "Html & Css"],
-    urls: ["https://creatific.vercel.app/", "https://github.com/Lourvens/creatific"]
+    tags: ["TypeScript"],
+    urls: ["https://github.com/ashokpds15/tms-captcha-autofill", "https://github.com/ashokpds15/tms-captcha-autofill/releases/tag/release"]
   },
   {
-    title: "upward - Landing page",
+    title: "ChatGPT- DAN Mode",
     img: img5,
-    tags: ["Tailwidcss", "NextJS"],
-    urls: ["https://upward-eosin.vercel.app", "https://github.com/Lourvens/upward"]
+    tags: ["WORD"],
+    urls: ["https://github.com/ashokpds15/Chatgpt-jailbreak-DAN", "https://github.com/ashokpds15/Chatgpt-jailbreak-DAN"]
   },
 ]
 

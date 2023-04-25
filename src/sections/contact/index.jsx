@@ -42,21 +42,20 @@ function Contact() {
       <div className="section lg:flex lg:justify-between">
         <div className="section__right md:w-2/3 lg:w-1/2">
           <h1 className={styles.title}>
-            Got a project in mind ? <br />
+            Have you got a project in your mind ? <br />
             Let&apos;s talk.
           </h1>
           <p className="text-gray-500 dark:text-gray-400 my-2 lg:mt-6 lg:mb-8">
-            Feel free to reach out to me with any questions or inquiries.
-            I&apos;m always happy to help and am open to new opportunities and
-            collaborations. Thank you for considering me as a resource. I look
-            forward to connecting with you!
+          If you have any questions or inquiries, please do not hesitate to contact me.
+          I enjoy helping others and I am always interested in new opportunities and
+          collaborations. I appreciate your interest in me as a resource. I hope to hear from you soon! 
           </p>
           <span>
             <a
-              href="mailto:lourvens.luxamar@gmail.com"
+              href="mailto:ashokpds15@gmail.com"
               className="inline-flex items-center gap-4 font-semibold text-teal-600 dark:text-teal-300"
             >
-              lourvens.luxamar@gmail.com <BsArrowRight />
+              ashokpds15@gmail.com <BsArrowRight />
             </a>
           </span>
         </div>

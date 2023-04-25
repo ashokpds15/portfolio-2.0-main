@@ -47,7 +47,7 @@ function Form() {
       <form onSubmit={handleSubmit} className="mt-6">
         <div className={styles.boxInput}>
           <label className={styles.label} htmlFor="user-name">
-            what&apos;s your name ?
+            What&apos;s your name ?
           </label>
           <input
             type="text"
@@ -60,7 +60,7 @@ function Form() {
         </div>
         <div className={styles.boxInput}>
           <label className={styles.label} htmlFor="email">
-            what&apos;s your fancy email ?
+            What&apos;s your fancy email ?
           </label>
           <input
             type="email"
@@ -72,7 +72,7 @@ function Form() {
         </div>
         <div className={styles.boxInput}>
           <label className={styles.label} htmlFor="content">
-            tell me about your project.
+            Tell me about your project.
           </label>
           <textarea
             name="content"

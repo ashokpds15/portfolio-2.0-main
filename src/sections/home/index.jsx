@@ -48,9 +48,9 @@ function Header() {
           <div className="flex flex-col lg:flex-row justify-between align-top mt-32">
             <div>
               <h1 className="flex flex-col gap-4 text-6xl capitalize w-1/2 font-thin text-slate-600 dark:text-white">
-                <AnimatedWrapper ref={h1Ref}>lourvens</AnimatedWrapper>
+                <AnimatedWrapper ref={h1Ref}>Ashok</AnimatedWrapper>
                 <AnimatedWrapper ref={h2Ref} className="tracking-[0.3em]">
-                  luxamar.
+                  Pudasaini
                 </AnimatedWrapper>
                 <hr
                   className="my-2 ml-1 w-48 h-2 bg-teal-500 border-none origin-top-left"
@@ -75,17 +75,16 @@ function Header() {
             <div className="sm:w-6/12 mt-12 sm:mt-0" ref={sideContentRef}>
               <h1 className="max-w-md text-3xl font-semibold my-3 lg:my-4 font-header">
                 Hello, I&apos;m a creative{" "}
-                <span className="text-teal-500">Full-stack Developer.</span>
+                <span className="text-teal-500">Semi-stack Developer.</span>
               </h1>
               <p className="max-w-md dark:text-gray-200">
-                I am a passionate Frontend Developer who is currently expanding
-                my skills to Backend Development. My tech stack includes React,
-                TailwindCSS, and TypeScript. I am constantly seeking new
-                challenges and opportunities to learn and improve my programming
-                skills.
-                <br /> <br /> With my dedication and passion for programming, I
-                am confident that I can create compelling and visually appealing
-                web applications that meet the needs of clients and users alike.
+              As a Frontend Developer with a passion for programming, 
+              I am always eager to learn new skills and technologies. 
+              Currently, I am expanding my knowledge to Backend Development 
+              and working with React, TailwindCSS, and TypeScript.
+                <br /> <br /> My goal is to create web applications 
+                that are not only functional and user-friendly, 
+                but also aesthetically pleasing and satisfying for clients.
               </p>
               <a
                 href="#contact"
