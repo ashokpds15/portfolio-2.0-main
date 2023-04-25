@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/sendmail(.*)",
+      "destination": "https://rapidprod-sendgrid-v1.p.rapidapi.com/mail/send$1"
+    }
+  ]
+}
